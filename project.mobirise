@@ -37,13 +37,13 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "pwa-switcher": false,
-    "uniqCompNum": 32,
+    "uniqCompNum": 33,
     "versionPublish": "5.8.4",
     "screenshot": "screenshot.png",
     "imageResize": true,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "mbrsiteDomain": "pok9xeiqlr"
   },
   "pages": {
@@ -175,12 +175,12 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "56",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/divabg-2000x1014.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -195,7 +195,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x757.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1140.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false,
@@ -298,7 +298,7 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "30px"
+              "font-size": "48px"
             }
           },
           "_params": {
@@ -307,7 +307,7 @@
             "paddingBottom": "2",
             "bgColor": "#5199ea"
           },
-          "title": "Current Officers",
+          "title": "OFFICERS",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -318,24 +318,119 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text1": "<ul><li><b>Commander </b>– ???</li><li><b>1st Vice </b>–&nbsp; ???</li><li><b>2nd Vice</b> –&nbsp; ???</li><li><b>Adjutant</b> –&nbsp; ???</li></ul>",
-          "text2": "<ul><li><b>Finance Officer –  </b>???</li><li><b>Sergeant at Arms</b> –&nbsp; ???</li><li><b>One Year Committee Man</b> –&nbsp; ???</li><li><b>Two Year Committee Man</b> –&nbsp; ???</li></ul>",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x520.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x423.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x448.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "COMMANDER",
+          "subtitle1": "Name?",
+          "caption1": "Additional Information if wanted?",
+          "title2": "EXECUTIVE OFFICER",
+          "subtitle2": "Name?",
+          "caption2": "Additional Information if wanted?",
+          "title3": "SECRETARY/TREASURER",
+          "subtitle3": "Name?",
+          "caption3": "Additional Information if wanted?",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content6",
-          "_anchor": "content6-h",
+          "_name": "features3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "features3-w",
           "_styles": {
-            ".lead UL": {
-              "text-align": "left",
-              "font-size": "20px"
+            "H5": {
+              "font-size": "21px"
             }
-          },
-          "_sourceTheme": "mobirise3"
+          }
         },
         {
           "_params": {
