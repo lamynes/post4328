@@ -828,6 +828,10 @@ section.form .container {
 #content1-j P {
   font-size: 21px;
 }
+#header3-12 .mbr-section-title,
+#header3-12 .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-g .mbr-section-title,
 #header3-g .mbr-section-subtitle {
   text-align: center;
