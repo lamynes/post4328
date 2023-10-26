@@ -254,7 +254,8 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "color": "#000000"
             }
           },
           "_params": {
@@ -287,6 +288,9 @@
           "_styles": {
             "P": {
               "font-size": "21px"
+            },
+            "DIV": {
+              "color": "#000000"
             }
           },
           "_sourceTheme": "mobirise3"
@@ -295,15 +299,19 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px",
+              "color": "#000000"
             }
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "title": "Annual EVENTS",
+          "title": "Annual Events",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -355,7 +363,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/1000w-q95.webp",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -370,7 +378,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/july-4-blog-header-3-800x450.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,

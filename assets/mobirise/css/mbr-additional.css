@@ -824,13 +824,21 @@ section.form .container {
 }
 #header3-v .mbr-section-title {
   font-size: 60px;
+  color: #000000;
 }
 #content1-j P {
   font-size: 21px;
 }
+#content1-j DIV {
+  color: #000000;
+}
 #header3-12 .mbr-section-title,
 #header3-12 .mbr-section-subtitle {
   text-align: center;
+}
+#header3-12 .mbr-section-title {
+  font-size: 60px;
+  color: #000000;
 }
 #header3-g .mbr-section-title,
 #header3-g .mbr-section-subtitle {
