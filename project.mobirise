@@ -137,7 +137,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/307014429-403870271931804-9092642454754575095-n-removebg-preview-1-1-removebg-preview-171x128.png",
+              "src": "@PROJECT_PATH@/assets/images/diva-logo-167x128.png",
               "height": 128,
               "alt": "Dauphin Island Veterans Association",
               "link": "index.html",
@@ -195,7 +195,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/307014429-403870271931804-9092642454754575095-n-removebg-preview-1-1-removebg-preview-578x432.png",
+              "src": "@PROJECT_PATH@/assets/images/diva-logo-936x719.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false,
@@ -707,7 +707,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/307014429-403870271931804-9092642454754575095-n-removebg-preview-1-1-removebg-preview-128x96.png",
+              "src": "@PROJECT_PATH@/assets/images/diva-logo-128x98.png",
               "width": 128,
               "active": true,
               "link": "index.html",
