@@ -841,7 +841,15 @@ section.form .container {
   color: #000000;
 }
 #header3-12 .mbr-section-subtitle {
-  font-size: 25px;
+  font-size: 30px;
+  color: #000000;
+}
+#features3-13 H4 {
+  font-size: 48px;
+}
+#features3-13 H5 {
+  color: #000000;
+  font-size: 20px;
 }
 #header3-g .mbr-section-title,
 #header3-g .mbr-section-subtitle {

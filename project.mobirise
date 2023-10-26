@@ -37,7 +37,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "pwa-switcher": false,
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "5.8.4",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -74,7 +74,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#header3-q\"><span class=\"fa fa-bookmark mbr-iconfont mbr-iconfont-btn\"></span>OUR MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"https://www.facebook.com/profile.php?id=100069265022118\" target=\"_blank\"><span class=\"mdi-action-account-child mbr-iconfont mbr-iconfont-btn\"></span>EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#map1-i\"><span class=\"fa fa-map-marker mbr-iconfont mbr-iconfont-btn\"></span>DIRECTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#map1-i\"><span class=\"icon54-v1-user mbr-iconfont mbr-iconfont-btn\"></span>MEMBORSHIP APP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"index.html\">(555) 555-5555</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#header3-q\"><span class=\"fa fa-bookmark mbr-iconfont mbr-iconfont-btn\"></span>OUR MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"https://www.facebook.com/profile.php?id=100069265022118\" target=\"_blank\"><span class=\"mdi-action-account-child mbr-iconfont mbr-iconfont-btn\"></span>EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#map1-i\"><span class=\"fa fa-map-marker mbr-iconfont mbr-iconfont-btn\"></span>DIRECTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"assets/files/DIVADauphin-IslandVeteransAssociationMembershipApplication.pdf\" target=\"_blank\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>MEMBORSHIP APP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"index.html\">(555) 555-5555</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -305,7 +305,8 @@
               "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "font-size": "25px"
+              "font-size": "30px",
+              "color": "#000000"
             }
           },
           "_params": {
@@ -315,13 +316,136 @@
             "bgColor": "#fff"
           },
           "title": "Annual Events",
-          "meta": "We are looking forward to seeing you each year.",
+          "meta": "We are looking forward to seeing you this year.",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
           "_sourceTheme": "mobirise3",
           "_anchor": "header3-12"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/76610989-2627687203944493-1192473746766561280-n-960x540.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-a9151c72-cda0-456c-a4f9-ab6ac96c46e6-1-1024x1024.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/july-4-blog-header-3-800x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1000w-q95-1.webp",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Mardi Gras",
+          "subtitle1": "2023",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Memorial Day",
+          "subtitle2": "May 29, 2023&nbsp;",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "4TH Of July",
+          "subtitle3": "July 4th 2023",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Veterans Day",
+          "subtitle4": "Nov 11, 2023",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "features3-13",
+          "_styles": {
+            "H4": {
+              "font-size": "48px"
+            },
+            "H5": {
+              "color": "#000000",
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_params": {
