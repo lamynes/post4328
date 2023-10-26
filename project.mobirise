@@ -137,7 +137,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/307014429-403870271931804-9092642454754575095-n-removebg-preview-1-128x96.png",
+              "src": "@PROJECT_PATH@/assets/images/307014429-403870271931804-9092642454754575095-n-removebg-preview-1-1-removebg-preview-171x128.png",
               "height": 128,
               "alt": "Dauphin Island Veterans Association",
               "link": "index.html",
@@ -176,7 +176,7 @@
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "67",
+            "imageSize": "46",
             "paddingTop": "6",
             "paddingBottom": "6",
             "bgImageRadio": true,
@@ -195,7 +195,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x757.png",
+              "src": "@PROJECT_PATH@/assets/images/307014429-403870271931804-9092642454754575095-n-removebg-preview-1-1-removebg-preview-578x432.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false,
@@ -327,7 +327,7 @@
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/98133356_10222022767820018_1211091201634074624_n-1677x1414.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -428,7 +428,8 @@
           "_anchor": "features3-w",
           "_styles": {
             "H5": {
-              "font-size": "21px"
+              "font-size": "30px",
+              "color": "#000000"
             }
           }
         },
@@ -462,7 +463,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/307014429-403870271931804-9092642454754575095-n-removebg-preview-1-128x96.png",
+              "src": "@PROJECT_PATH@/assets/images/307014429-403870271931804-9092642454754575095-n-removebg-preview-1-1-removebg-preview-128x96.png",
               "width": 128,
               "active": true,
               "link": "index.html",
