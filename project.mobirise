@@ -176,11 +176,11 @@
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "56",
+            "imageSize": "67",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/divabg-2000x1014.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -195,7 +195,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1140.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x757.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false,
@@ -352,7 +352,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x423.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1140.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
