@@ -1,0 +1,403 @@
+{
+  "settings": {
+    "name": "DIVA",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#5199ea",
+        "secondaryColor": "#f28281",
+        "successColor": "#5199ea",
+        "infoColor": "#3d8eb9",
+        "warningColor": "#5199ea",
+        "dangerColor": "#f3c649",
+        "titleFont": "Oswald",
+        "subtitleFont": "Oswald",
+        "textFont": "Oswald",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#6a9cd4",
+        "#83e223",
+        "#5199ea",
+        "#232323"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.11.4",
+    "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/diva-128x124.png",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined",
+    "pwa-switcher": false,
+    "uniqCompNum": 32,
+    "versionPublish": "5.8.4",
+    "screenshot": "screenshot.png",
+    "imageResize": true,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "publishChangesOnly": false,
+    "mbrsiteDomain": "pok9xeiqlr"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Dauphin Island Veterans Association",
+        "meta_descr": "DIVA, or Dauphin Island Veterans Association exists to promote and support veterans groups and local schools.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/125811238_2853385124897649_4472891233733826283_n-1024x576.jpg"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#5199ea",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#header3-q\"><span class=\"fa fa-bookmark mbr-iconfont mbr-iconfont-btn\"></span>OUR MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"https://www.facebook.com/profile.php?id=100069265022118\" target=\"_blank\"><span class=\"mdi-action-account-child mbr-iconfont mbr-iconfont-btn\"></span>EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#map1-i\"><span class=\"fa fa-map-marker mbr-iconfont mbr-iconfont-btn\"></span>DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"tel:(251) 973-1116\">(251) 555-5555</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#5199ea"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#5199ea"
+            },
+            ".link, .dropdown-item": {
+              "color": "#5199ea"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#5199ea",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#5199ea!important"
+            },
+            ".btn": {
+              "font-size": "20px"
+            },
+            "A": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/307014429-403870271931804-9092642454754575095-n-removebg-preview-1-128x96.png",
+              "height": 128,
+              "alt": "Dauphin Island Veterans Association",
+              "link": "index.html",
+              "title": "monstertruckz",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DIVA</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            "h3, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "30px",
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center",
+              "font-size": "48px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "56",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/divabg-2000x1014.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x757.png",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=wqn3r6RukSE",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "DAUPHIN ISLAND VETERANS ASSOCIATION",
+          "text": "10950 Dauphin Island Pkwy. Theodore, AL 36582",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-s",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#5199ea"
+          },
+          "title": "DIVA, or Dauphin Island Veterans Association exists to promote and support veterans groups and local schools.",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-q",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Our Mission",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header3-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Hundreds of local Veterans programs and activities strengthen the nation one community at a time. We also raises money in donations at the local, state and national levels to help veterans and their families during times of need and to provide college scholarship opportunities.<br></p><p><br></p><p>\n</p><p>\n</p><p>We are a nonpartisan, not-for-profit organization with great political influence perpetuated by its grass-roots involvement in the legislation process from local districts to Capitol Hill. Our sense of obligation to community, state and nation drives an honest advocacy for veterans in Washington. We stand behind the issues most important to the nation’s veterans community, backed by resolutions passed by volunteer leadership.</p><p><br></p><p>\n</p><p>\n</p><p><b>Our success depends entirely on active membership, participation and volunteerism. The organization belongs to the people it serves and the communities in which it thrives.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-j",
+          "_styles": {
+            "P": {
+              "font-size": "21px"
+            }
+          },
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#5199ea"
+          },
+          "title": "Current Officers",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-g",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text1": "<ul><li><b>Commander </b>– ???</li><li><b>1st Vice </b>–&nbsp; ???</li><li><b>2nd Vice</b> –&nbsp; ???</li><li><b>Adjutant</b> –&nbsp; ???</li></ul>",
+          "text2": "<ul><li><b>Finance Officer –  </b>???</li><li><b>Sergeant at Arms</b> –&nbsp; ???</li><li><b>One Year Committee Man</b> –&nbsp; ???</li><li><b>Two Year Committee Man</b> –&nbsp; ???</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-h",
+          "_styles": {
+            ".lead UL": {
+              "text-align": "left",
+              "font-size": "20px"
+            }
+          },
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Dauphin Island, Alabama",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-i",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/2796362-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/307014429-403870271931804-9092642454754575095-n-removebg-preview-1-128x96.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Dauphin Island, Alabama<br>",
+          "text2": "<strong>Contacts</strong><br>Phone (251)&nbsp;555-5555<br>",
+          "text3": "<strong>Links</strong><br>\n<a href=\"index.html\" class=\"text-warning\">Home</a><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-6",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_sourceTheme": "mobirise3"
+        }
+      ]
+    }
+  }
+}
