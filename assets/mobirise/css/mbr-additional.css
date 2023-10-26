@@ -802,7 +802,7 @@ section.form .container {
   color: #fff;
 }
 #msg-box6-s P {
-  font-size: 30px;
+  font-size: 36px;
   text-align: center;
 }
 #msg-box6-s H3 {
@@ -838,6 +838,13 @@ section.form .container {
 }
 #features3-w H5 {
   font-size: 30px;
+  color: #000000;
+}
+#features3-w H4 {
+  color: #000000;
+  font-size: 30px;
+}
+#features3-w P {
   color: #000000;
 }
 #contacts1-6 P {
