@@ -235,8 +235,8 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#5199ea"
           },
           "title": "DIVA, or Dauphin Island Veterans Association exists to promote and support veterans groups and local schools.",
@@ -338,7 +338,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -413,7 +413,7 @@
           "title2": "Memorial Day",
           "subtitle2": "May 29, 2023&nbsp;",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "4TH Of July",
+          "title3": "4th of July",
           "subtitle3": "July 4th 2023",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Veterans Day",
