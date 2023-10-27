@@ -74,7 +74,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#header3-q\"><span class=\"fa fa-bookmark mbr-iconfont mbr-iconfont-btn\"></span>OUR MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"https://www.facebook.com/profile.php?id=100069265022118\" target=\"_blank\"><span class=\"mdi-action-account-child mbr-iconfont mbr-iconfont-btn\"></span>EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#map1-i\"><span class=\"fa fa-map-marker mbr-iconfont mbr-iconfont-btn\"></span>DIRECTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"assets/files/DIVADauphin-IslandVeteransAssociationMembershipApplication.pdf\" target=\"_blank\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>MEMBORSHIP APP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"index.html\">(555) 555-5555</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#header3-q\"><span class=\"fa fa-bookmark mbr-iconfont mbr-iconfont-btn\"></span>OUR MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"https://www.facebook.com/profile.php?id=100069265022118\" target=\"_blank\"><span class=\"mdi-action-account-child mbr-iconfont mbr-iconfont-btn\"></span>EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#map1-i\"><span class=\"fa fa-map-marker mbr-iconfont mbr-iconfont-btn\"></span>DIRECTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"assets/files/DIVADauphin-IslandVeteransAssociationMembershipApplication.pdf\" target=\"_blank\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>MEMBERSHIP APP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"index.html\">(555) 555-5555</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -470,11 +470,12 @@
                 "contentAlign": "center",
                 "text": "Welcome to our Annual Parade each year.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
+                "alt": "",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-a9151c72-cda0-456c-a4f9-ab6ac96c46e6-1024x1024.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -485,12 +486,12 @@
                 "contentAlign": "left",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.4",
+                "overlayOpacity": "0.3",
                 "alt": ""
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/1000w-q95.webp",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -501,7 +502,8 @@
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
+                "alt": "",
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/july-4-blog-header-3-800x450.jpg",
@@ -516,7 +518,8 @@
                 "contentAlign": "center",
                 "text": "Welcome to our Fireworks show each year.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
+                "alt": "",
+                "overlayOpacity": "0.3"
               }
             ]
           },
@@ -540,8 +543,8 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgColor": "#5199ea"
           },
           "title": "OFFICERS",
@@ -560,7 +563,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": false,
