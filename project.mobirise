@@ -176,11 +176,11 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "29",
+            "imageSize": "59",
             "paddingTop": "7",
             "paddingBottom": "7",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/99140939-10222022624016423-4187730647042752512-n-1714x1464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/99140939-10222022624016423-41877306470427525122-n-1714x1464.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -459,7 +459,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/76610989-2627687203944493-1192473746766561280-n-960x540.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -475,7 +475,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-a9151c72-cda0-456c-a4f9-ab6ac96c46e6-1024x1024.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
