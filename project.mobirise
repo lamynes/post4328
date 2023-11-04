@@ -37,7 +37,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
     "pwa-switcher": false,
-    "uniqCompNum": 42,
+    "uniqCompNum": 45,
     "versionPublish": "5.8.4",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -455,7 +455,7 @@
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#fff",
-            "timeout": "5",
+            "timeout": "6",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/76610989-2627687203944493-1192473746766561280-n-960x540.jpg",
@@ -469,12 +469,11 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Welcome to our Annual Parade each year.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": "",
-                "overlayOpacity": "0.3"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/-a9151c72-cda0-456c-a4f9-ab6ac96c46e6-1024x1024.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-a9151c72-cda0-456c-a4f9-ab6ac96c46e6-1-1024x1024.jpeg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -484,9 +483,8 @@
                 "title": "Memorial Day",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "text": "Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.3",
                 "alt": ""
               },
               {
@@ -500,10 +498,9 @@
                 "title": "Veterans Day",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": "",
-                "overlayOpacity": "0.4"
+                "alt": ""
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/july-4-blog-header-3-800x450.jpg",
@@ -515,21 +512,21 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "4TH OF JULY",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "text": "Welcome to our Fireworks show each year.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": "",
-                "overlayOpacity": "0.3"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
               }
             ]
           },
           "articleLayout": false,
+          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "slider",
+          "_name": "extSlider1",
           "_sourceTheme": "mobirise3",
-          "_anchor": "slider-11"
+          "_anchor": "extSlider1-18"
         },
         {
           "_styles": {
