@@ -707,7 +707,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "title": "DAUPHIN ISLAND, ALABAMA",
+          "title": "DAUPHIN ISLAND, AL",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -731,14 +731,14 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/3VCiZtWZ1Kg?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/3VCiZtWZ1Kg?si=AXla5z7n6x-rxM1J",
+              "url": "https://www.youtube.com/embed/hj84pMATFtI?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/hj84pMATFtI?si=Xa_ATJUqQIMWJxUI",
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.3"
           },
           "title": "DAUPHIN ISLAND, ALABAMA",
           "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
