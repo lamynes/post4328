@@ -213,7 +213,7 @@
               "size": 250
             }
           },
-          "title": "DAUPHIN ISLAND VETERANS ASSOCIATION",
+          "title": "DAUPHIN ISLAND VETERAN'S ASSOCIATION",
           "text": "<i style=\"\">Dauphin Island, Alabama</i>",
           "_tags": [
             "Theme"
@@ -488,7 +488,7 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1000w-q95.webp",
+                "image": "@PROJECT_PATH@/assets/images/1000w_q95.webp",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
