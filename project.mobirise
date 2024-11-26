@@ -57,7 +57,7 @@
     "gdpr": false,
     "uniqCompNum": 15,
     "versionPublish": "5.9.18",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "screenshot": "screenshot.png",
     "PWA": {
       "enabled": false,
