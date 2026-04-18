@@ -57,7 +57,7 @@
     "gdpr": false,
     "uniqCompNum": 31,
     "versionPublish": "6.0.1",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "screenshot": "screenshot.png",
     "PWA": {
       "enabled": false,
@@ -82,7 +82,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/vfw-4328-banner-1500x1085.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/copilot-20260417-075737-1.jpg-1536x1024.jpg"
       },
       "components": [
         {
